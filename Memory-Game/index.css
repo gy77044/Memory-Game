@@ -1,0 +1,16 @@
+body{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+#grid{
+  width:400px;
+  height:300px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h3{
+  color: #18bd18
+}
